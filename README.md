@@ -22,3 +22,4 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 
   * Belajar tipe data koleksi, seperti list, set, dan map.
   * berbgai banyak hal lain
+  * penambahan 1
